@@ -1,6 +1,6 @@
 interface SimpleFighter {
   lifePoints: number;
-  strangth: number;
+  strength: number;
 
   attack(enemy: SimpleFighter): void;
   
